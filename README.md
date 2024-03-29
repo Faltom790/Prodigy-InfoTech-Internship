@@ -9,11 +9,11 @@ Welcome to Tomiwa Falade's Prodigy InfoTech Tasks repository! This repository co
 
 ## Task List
 
-1. **PRODIGY_CS_01**: Description of Task 1 goes here. [PRODIGY_CS_01](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_01)
-2. **PRODIGY_CS_02**: Description of Task 2 goes here. [PRODIGY_CS_02](relative/path/to/task2.md)
-3. **PRODIGY_CS_03**: Description of Task 3 goes here. [PRODIGY_CS_03](relative/path/to/task2.md)
-4. **PRODIGY_CS_04**: Description of Task 4 goes here. [PRODIGY_CS_04](relative/path/to/task2.md)
-5. **PRODIGY_CS_05**: Description of Task 5 goes here. [PRODIGY_CS_05](relative/path/to/task2.md)   
+1. **PRODIGY_CS_01**: Task 1 goes here. [PRODIGY_CS_01](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_01)
+2. **PRODIGY_CS_02**: Task 2 goes here. [PRODIGY_CS_02](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_02)
+3. **PRODIGY_CS_03**: Task 3 goes here. [PRODIGY_CS_03](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_03)
+4. **PRODIGY_CS_04**: Task 4 goes here. [PRODIGY_CS_04](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_04)
+5. **PRODIGY_CS_05**: Task 5 goes here. [PRODIGY_CS_05](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_05)
 
 
 ## Getting Started
