@@ -9,7 +9,7 @@ Welcome to Tomiwa Falade's Prodigy InfoTech Tasks repository! This repository co
 
 ## Task List
 
-1. **PRODIGY_CS_01**: Description of Task 1 goes here. [PRODIGY_CS_01](Prodigy-InfoTech-Internship/master/PRODIGY_CS_01/)
+1. **PRODIGY_CS_01**: Description of Task 1 goes here. [PRODIGY_CS_01](master/PRODIGY_CS_01/)
 2. **PRODIGY_CS_02**: Description of Task 2 goes here. [PRODIGY_CS_02](relative/path/to/task2.md)
 3. **PRODIGY_CS_03**: Description of Task 3 goes here. [PRODIGY_CS_03](relative/path/to/task2.md)
 4. **PRODIGY_CS_04**: Description of Task 4 goes here. [PRODIGY_CS_04](relative/path/to/task2.md)
