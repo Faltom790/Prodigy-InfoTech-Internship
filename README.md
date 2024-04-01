@@ -8,7 +8,7 @@ Welcome to Tomiwa Falade's Prodigy InfoTech Tasks repository! This repository co
 - Within each task directory, you will find the necessary files, code, and any additional resources related to that task.
 
 ## Task List
-
+   **All Tasks:** [Click Here](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master)
 1. **PRODIGY_CS_01**: Task 1 goes here. [PRODIGY_CS_01](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_01)
 2. **PRODIGY_CS_02**: Task 2 goes here. [PRODIGY_CS_02](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_02)
 3. **PRODIGY_CS_03**: Task 3 goes here. [PRODIGY_CS_03](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_03)
