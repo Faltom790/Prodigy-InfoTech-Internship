@@ -5,7 +5,6 @@
 - **Directory:** `PRODIGY_CS_01`
 - **Description:** This directory contains a Python program for encrypting and decrypting text using the Caesar Cipher algorithm.
 
----
 
 ## Usage Instructions
 
