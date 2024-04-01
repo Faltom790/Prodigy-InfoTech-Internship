@@ -14,6 +14,6 @@ Welcome! This repository contains directories for each task I have worked on dur
 
 ### Task 1: Implement Caesar Cipher
 
-- **Description:** This directory contains a Python program for encrypting and decrypting text using the Caesar Cipher algorithm.
+- **Description:** Python program for encrypting and decrypting text using the Caesar Cipher algorithm.
 - **Status:** [In Progress]
 - **Associated Files:** `PRODIGY_CS_01`,`Cipher_Program.md`,`Task1.jpg`,
