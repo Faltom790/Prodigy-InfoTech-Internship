@@ -10,15 +10,15 @@
 ## Usage Instructions
 
 1. **Encryption:**
-   - Run the `Cipher_program.py` program.
+   - Run the `Cipher_Program.py` program.
    - Enter the message you want to encrypt.
    - Enter the shift value (an integer) for encryption.
    - The program will output the encrypted message.
 
 2. **Decryption:**
-   - Run the `Cipher_program.py` program.
+   - Run the `Cipher_Program.py` program.
    - Enter the encrypted message.
-   - Enter the negative of the shift value used for encryption to decrypt the message.
+   - Enter the the shift value used for encryption to decrypt the message.
    - The program will output the decrypted message.
 
 ---
