@@ -15,5 +15,11 @@ Welcome! This repository contains directories for each task I have worked on dur
 ### Task 1: Implement Caesar Cipher
 
 - **Description:** Python program for encrypting and decrypting text using the Caesar Cipher algorithm.
-- **Status:** [In Progress]
-- **Associated Files:** `PRODIGY_CS_01`,`Cipher_Program.md`,`Task1.jpg`,
+- **Status:** [Completed]
+- **Associated Files:** `PRODIGY_CS_01`,`Cipher_Program.md`,`Task1.jpg`,`Cipher_Program.py`,`Video Explanation.mp4`
+
+### Task 2: Pixel Manipulation For Image Encryption
+
+- **Description:** Developed a simple image encryption tool using pixel manipulation techniques
+- **Status:** [Not Started]
+- **Associated Files:** `PRODIGY_CS_02`,`Task2.jpg`
