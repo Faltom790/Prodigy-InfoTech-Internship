@@ -22,4 +22,4 @@ Welcome! This repository contains directories for each task I have worked on dur
 
 - **Description:** Developed a simple image encryption tool using pixel manipulation techniques
 - **Status:** [Completed]
-- **Associated Files:** `PRODIGY_CS_02`,`Task2.jpg`,`password_strength_assement.py`,`.md`,`Video Explanation.mp4`
+- **Associated Files:** `PRODIGY_CS_02`,`Task2.jpg`,`password_strength_assessment.py`,`pw_assessment.md`,`Video Explanation.mp4`
