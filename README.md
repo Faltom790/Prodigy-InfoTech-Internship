@@ -21,5 +21,5 @@ Welcome! This repository contains directories for each task I have worked on dur
 ### Task 2: Pixel Manipulation For Image Encryption
 
 - **Description:** Developed a simple image encryption tool using pixel manipulation techniques
-- **Status:** [Not Started]
-- **Associated Files:** `PRODIGY_CS_02`,`Task2.jpg`
+- **Status:** [Completed]
+- **Associated Files:** `PRODIGY_CS_02`,`Task2.jpg`,`password_strength_assement.py`,`.md`,`Video Explanation.mp4`
