@@ -16,10 +16,17 @@ Welcome! This repository contains directories for each task I have worked on dur
 
 - **Description:** Python program for encrypting and decrypting text using the Caesar Cipher algorithm.
 - **Status:** [Completed]
-- **Associated Files:** `PRODIGY_CS_01`,`Cipher_Program.md`,`Task1.jpg`,`Cipher_Program.py`,`Video Explanation.mp4`
+- **Associated Files:** `PRODIGY_CS_01`,`README.md`,`Task1.jpg`,`Cipher_Program.py`,`Video Explanation.mp4`
 
 ### Task 2: Pixel Manipulation For Image Encryption
 
 - **Description:** Developed a simple image encryption tool using pixel manipulation techniques
 - **Status:** [Completed]
-- **Associated Files:** `PRODIGY_CS_02`,`Task2.jpg`,`password_strength_assessment.py`,`pw_assessment.md`,`Video Explanation.mp4`
+- **Associated Files:** `PRODIGY_CS_02`,`Task2.jpg`,`.py`,`README.md`,`Video Explanation.mp4`
+
+### Task 3: Password Complexity Checker
+
+- **Description:** Simple Password Strength Assessment Tool in Python
+- **Status:** [Completed]
+- **Associated Files:** `PRODIGY_CS_03`,`Task3.jpg`,`password_strength_assessment.py`,`README.md`,`Video Explanation.mp4`
+
